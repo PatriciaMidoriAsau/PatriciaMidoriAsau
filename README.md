@@ -70,7 +70,18 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+<br>
+<img src="https://thepracticaldev.s3.amazonaws.com/i/m8472hypclwrc2ee7ggo.png" height="30" width="90" alt="JUnit logo"  />
+<img src="https://www.perfecto.io/sites/default/files/image/2020-03/Appium%20logo.png" height="30" width="90" alt="Appium logo"  />
+<img src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png" height="40" width="90" alt="Rest assured logo"  />
+<img src="https://blog.e-zest.com/hs-fs/hubfs/Capture-4.png?width=401&name=Capture-4.png" height="40" width="90" alt="Jmeter logo"  />
+<img src="https://qatestlab.com/assets/Uploads/genymotion.png" height="30" width="90" alt="Genymotion logo"  />
+
+
+
+
+
 
 </div>
 
