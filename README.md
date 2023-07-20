@@ -1,9 +1,10 @@
 
 ## Olá! Eu sou a Patrícia Midori 😊
 
-* 🎓 Formação em Desenvolvimento Web Full Stack - Migrando para área de Quality Assurance.
-* 🕮 Estudante do curso de Pós-graduação em Engenharia de software com ênfase em qualidade e teste de software + Mentoria em testes de software por Júlio de Lima e cursos das plataformas Alura e Udemy.
-* 🌱 Aprendendo mais sobre automação de testes.
+* 🎓 Formada em Desenvolvimento Web Full Stack - Digital House Brasil.
+* 🎓 Formada na Mentoria em testes de software por Júlio de Lima.
+* 🕮 Estudante do curso de Pós-graduação em Engenharia de software com ênfase em qualidade e teste de software - Anhanguera.
+* 🌱 Aprofundando conhecimentos em automação de testes.
 
 <br>
 <br>
