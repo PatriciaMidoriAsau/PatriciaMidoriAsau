@@ -3,7 +3,7 @@
 
 * 🎓 Formada em Desenvolvimento Web Full Stack - Digital House Brasil.
 * 🎓 Formada na Mentoria em testes de software por Júlio de Lima.
-* 🕮 Estudante do curso de Pós-graduação em Engenharia de software com ênfase em qualidade e teste de software - Anhanguera.
+* 🎓 Pós-graduada em Engenharia de software com ênfase em qualidade e teste de software - Anhanguera.
 * 🌱 Aprofundando conhecimentos em automação de testes.
 
 <br>
